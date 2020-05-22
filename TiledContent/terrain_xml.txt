@@ -1,0 +1,67 @@
+<terraintypes>
+  <terrain name="01 0x007F" tile="-1"/>
+  <terrain name="02 Plains" tile="-1"/>
+  <terrain name="03 Road" tile="-1"/>
+  <terrain name="04 Village Entrance" tile="-1"/>
+  <terrain name="05 Village Entrance" tile="-1"/>
+  <terrain name="06 House" tile="-1"/>
+  <terrain name="07 Armory" tile="-1"/>
+  <terrain name="08 Vendor" tile="-1"/>
+  <terrain name="09 Arena" tile="-1"/>
+  <terrain name="0A C. Room" tile="-1"/>
+  <terrain name="0B Fortress" tile="-1"/>
+  <terrain name="0C Gate" tile="-1"/>
+  <terrain name="0D Forest" tile="-1"/>
+  <terrain name="0E Thicket" tile="-1"/>
+  <terrain name="0F Sand" tile="-1"/>
+  <terrain name="10 Desert" tile="-1"/>
+  <terrain name="11 River" tile="-1"/>
+  <terrain name="12 Mountain" tile="-1"/>
+  <terrain name="13 Peak" tile="-1"/>
+  <terrain name="14 Bridge" tile="-1"/>
+  <terrain name="15 Bridge" tile="-1"/>
+  <terrain name="16 Sea" tile="-1"/>
+  <terrain name="17 Lake" tile="-1"/>
+  <terrain name="18 Floor" tile="-1"/>
+  <terrain name="19 Floor" tile="-1"/>
+  <terrain name="1A Fence" tile="-1"/>
+  <terrain name="1B Wall" tile="-1"/>
+  <terrain name="1C Cracked Wall" tile="-1"/>
+  <terrain name="1D Rubble" tile="-1"/>
+  <terrain name="1E Pillar" tile="-1"/>
+  <terrain name="1F Door" tile="-1"/>
+  <terrain name="20 Throne" tile="-1"/>
+  <terrain name="21 Chest" tile="-1"/>
+  <terrain name="22 Chest" tile="-1"/>
+  <terrain name="23 Roof" tile="-1"/>
+  <terrain name="24 Gate (Castle)" tile="-1"/>
+  <terrain name="25 Church" tile="-1"/>
+  <terrain name="26 Ruins" tile="-1"/>
+  <terrain name="27 Cliff" tile="-1"/>
+  <terrain name="28 Ballista" tile="-1"/>
+  <terrain name="29 Long Ballista" tile="-1"/>
+  <terrain name="2A Killer Balista" tile="-1"/>
+  <terrain name="2B Flat Tile (Ship)" tile="-1"/>
+  <terrain name="2C Wreck Tile (Ship)" tile="-1"/>
+  <terrain name="2D Building 1" tile="-1"/>
+  <terrain name="2E Stairs" tile="-1"/>
+  <terrain name="2F Building 2" tile="-1"/>
+  <terrain name="30 Glacier" tile="-1"/>
+  <terrain name="31 Arena" tile="-1"/>
+  <terrain name="32 Valley" tile="-1"/>
+  <terrain name="33 Fence 2" tile="-1"/>
+  <terrain name="34 Snag" tile="-1"/>
+  <terrain name="35 Snag Bridge" tile="-1"/>
+  <terrain name="36 Sky" tile="-1"/>
+  <terrain name="37 Deeps" tile="-1"/>
+  <terrain name="38 Ruins 2" tile="-1"/>
+  <terrain name="39 Inn" tile="-1"/>
+  <terrain name="3A Barrel" tile="-1"/>
+  <terrain name="3B Bone" tile="-1"/>
+  <terrain name="3C Dark" tile="-1"/>
+  <terrain name="3D Water" tile="-1"/>
+  <terrain name="3E Gunnel" tile="-1"/>
+  <terrain name="3F Deck" tile="-1"/>
+  <terrain name="40 Brace" tile="-1"/>
+  <terrain name="41 Mast" tile="-1"/>
+</terraintypes>
